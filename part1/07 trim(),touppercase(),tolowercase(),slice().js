@@ -1,9 +1,9 @@
-// trim() 
-// toUpperCase()
-// toLowerCase()
-// slice()
+// trim()            --used to remove spaces from string
+// toUpperCase()     --uppercase
+// toLowerCase()     ---lowercase
+// slice()           --to print particular letters from a string
 
-let firstName = "harshit";
+let firstName = "harshit  ";
 
 // console.log(firstName.length);
 // firstName = firstName.trim(); // "harshit"
