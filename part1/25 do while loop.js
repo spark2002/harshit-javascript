@@ -7,8 +7,8 @@
 
 // let i = 10;
 // do{
-//     console.log(i);
+//     console.log(i);                 //10
 //     i++;
 // }while(i<=9);
 
-// console.log("value of i is ", i);
+// console.log("value of i is ", i);            //value of i is  10
