@@ -32,7 +32,7 @@
 // let firstName= 0;
 
 // if(firstName){
-//     console.log(firstName);
+//     console.log(firstName);         
 // }else{
-//     console.log("firstName is kinda empty");
+//     console.log("firstName is kinda empty");              //print
 // }
