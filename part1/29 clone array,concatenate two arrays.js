@@ -11,6 +11,8 @@ let array1 = ["item1", "item2"];
 let oneMoreArray = ["item3", "item4"]
 let array2 = [...array1, ...oneMoreArray];
 
+//let arr2 = [...arr1, "dyc7", "etcyv"];
+
 array1.push("item3");
 
 console.log(array1===array2);
