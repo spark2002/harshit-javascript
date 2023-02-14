@@ -6,4 +6,4 @@ while(i<fruits.length){
     fruits2.push(fruits[i].toUpperCase());
     i++;
 }
-console.log(fruits2);
+console.log(fruits2);                                  //  (3) ['APPLE', 'MANGO', 'GRAPES']
